@@ -14,6 +14,13 @@ RELEASE="$(rpm -E %fedora)"
 
 # this installs a package from fedora repos
 rpm-ostree install screen
+rpm-ostree install ulauncher
+rpm-ostree install plank
+rpm-ostree install R
+rom-ostree install julia
+rpm-ostree install numix-icon-theme-circle
+rpm-ostree install numix-gtk-theme
+rpm-ostree install materia-gtk-theme
 
 # this would install a package from rpmfusion
 # rpm-ostree install vlc
