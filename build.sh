@@ -17,7 +17,7 @@ rpm-ostree install screen
 rpm-ostree install ulauncher
 rpm-ostree install plank
 rpm-ostree install R
-rom-ostree install julia
+rpm-ostree install julia
 rpm-ostree install numix-icon-theme-circle
 rpm-ostree install numix-gtk-theme
 rpm-ostree install materia-gtk-theme
